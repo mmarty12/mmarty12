@@ -13,5 +13,5 @@
 - <code>📦 Tech stack: node.js</code>
 - <code>🪙 [Rates](RATES.md)</code><br> 
 ---
-<code>💬 telegram: [@mm_1204](https://telegram.me/@mm_1204)</code> 
-<code>📫 mail: [mmartyniuk004@gmail.com](mailto:mmartyniuk004@gmail.com)</code> 
+#### <code>💬 telegram: [@mm_1204](https://telegram.me/@mm_1204)</code> 
+#### <code>📫 mail: [mmartyniuk004@gmail.com](mailto:mmartyniuk004@gmail.com)</code> 
