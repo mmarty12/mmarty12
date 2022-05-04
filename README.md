@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### <code>🎓 Student: KPI / IM-13.</code>
 - <code>⚪ Community: Metarhia</code> 
 - <code>👷 Speciality: Software engineer / Frontend</code><br> 
@@ -6,16 +5,6 @@
 - <code>🧻 [Projects](PROJECTS.md)</code> 
 - <code>📢 [Public talks: 0](TALKS.md)</code>
 - <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-=======
-<code>🎓 Student: KPI / IM-13</code>
-<code>⚪ Community: Metarhia</code> 
-<code>👷 Speciality: Software engineer / Frontend</code><br> 
-<code>💡 [Skills](SKILLS.md)</code> 
-<code>🧻 [Projects](PROJECTS.md)</code> 
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
->>>>>>> 891d091224458df2a6c1dcf693289596528c64f6
-
 - <code>🧑‍💻 Languages: 
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JAVASCRIPT)
