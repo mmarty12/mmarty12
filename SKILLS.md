@@ -27,7 +27,7 @@
 | 🟩 async function    | 🟩 new Error          | 🟩 factory            | 🟩 string parsing   | 🟩 prettier          |
 | 🟩 call, bind, apply |                       | 🟦 pool               | 🟩 timers           | 🟩 unittest          |
 | 🟩 Array             |                       | 🟩 wrapper            | 🟩 EventEmitter     | 🟩 git               |
-| 🟩 instanceof        |                       | 🟨 default parameters | 🟩 RegExp           | 🟩 github            |
+| 🟩 instanceof        |                       | 🟩 default parameters | 🟩 RegExp           | 🟩 github            |
 | 🟩 ...spread         |                       | 🟩lambda              | 🟩 global           | 🟩 node.js            |
 | 🟩 ...rest           |                       |                       | 🟩 undefined        | 🟩 npm               |
 | 🟩 typeof            |                       |                       | 🟩 null             |                      |
@@ -45,8 +45,8 @@
 | 🟩 Prototype-based programming | 🟩 Getters, Setters   | 🟩 Doubly list       |                          |
 | 🟩 Object-oriented programming | 🟩 Public fields      | 🟩 Unrolled list     |                          |
 | ⬜ Object-based programming    | 🟩 Private fields     | 🟩 Circular list     |                          |
-| 🟦 Generic programming         | 🟩 Field declarations | 🟦 Trees             |                          |
-| 🟦 Concurrent computing        | 🟩 Inheritance        | 🟦 Graphs            |                          |
+| 🟦 Generic programming         | 🟩 Field declarations | 🟩 Trees             |                          |
+| 🟦 Concurrent computing        | 🟩 Inheritance        | 🟩 Graphs            |                          |
 | 🟦 Asyncronous programming     | 🟩 Parent class       | 🟩 Functor           |                          |
 | 🟦 Parallel programming        | 🟩 Polymorphism       | 🟩 Functional object |                          |
 | 🟩 Reactive programming        | 🟦 Abstract class     | ⬜ Monad             |                          |
