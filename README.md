@@ -1,12 +1,36 @@
 ### <code>🎓 Student: KPI / IM-13.</code>
-- <code>👷 Speciality: Software engineer / Frontend developer</code><br> 
-- <code>💡 [Skills](SKILLS.md)</code>
-- <code>🧻 [Projects](PROJECTS.md)</code> 
-- <code>🧑‍💻 Languages: </code>
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JAVASCRIPT)
-  ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=C%2b%2b)
-
+**Speciality: Software engineer**<br> 
+- [Skills](SKILLS.md)
+- [Projects](PROJECTS.md)
 ---
-#### <code>💬 telegram: [@mm_1204](https://telegram.me/@mm_1204)</code> 
-#### <code>📫 mail: [mmartyniuk004@gmail.com](mailto:mmartyniuk004@gmail.com)</code> 
+- 📌Languages:
+  
+ <div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>&nbsp;       
+ </div>
+ 
+- ⚙️Tech stack:
+  
+ <div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>&nbsp;     
+ </div>
+    
+---
+### <code>**Contact me:**</code>
+<div id=badges>
+  <a href='https://telegram.me/@mm_1204'>
+<img src=https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white>
+  </a>
+  <a href='mailto:mmartyniuk004@gmail.com'>
+<img src=https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red>
+  </a>
+</div>
+
+
