@@ -25,7 +25,7 @@
 ---
 ### <code>**Contact me:**</code>
 <div id=badges>
-  <a href='https://telegram.me/@mm_1204'>
+  <a href='https://t.me/mm_1204'>
 <img src=https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white>
   </a>
   <a href='mailto:mmartyniuk004@gmail.com'>
