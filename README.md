@@ -1,4 +1,4 @@
-### <code>🎓 Student: KPI / IM-13.</code>
+### <code>🎓 Student: MSc @ SIAT SFU</code>
 **Speciality: Software engineer**<br> 
 - [Skills](SKILLS.md)
 - [Projects](PROJECTS.md)
